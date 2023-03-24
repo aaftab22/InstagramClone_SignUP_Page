@@ -112,7 +112,7 @@
         android:text="Please Wait"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/login_progressBarId">
+        app:layout_constraintTop_toBottomOf="@+id/login_progressBarId"/>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
